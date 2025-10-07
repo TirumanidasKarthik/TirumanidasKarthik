@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Tirumanidas Karthik
 
-<!--
-**TirumanidasKarthik/TirumanidasKarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Python Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building cool things in Python, Java, Flask, and JavaScript. 
+My daily motto: _Grow my knowledge everyday._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Top Projects
+
+- [Console Tetris Game](https://github.com/TirumanidasKarthik/Console-Tetris-Game)  
+  A simple Tetris game for PC console, crafted for fun and learning.
+
+- [Console Snake Game](https://github.com/TirumanidasKarthik/Console-Snake-Game)  
+  Playable in the terminal—classic snake reimagined with Python.
+
+## 🛠️ Skills
+
+- Python
+- Java
+- Flask
+- JavaScript
+
+## 🌱 About Me
+
+I love solving problems, learning new technologies, and sharing my work. Every day is a new opportunity to learn and grow.
+
+## 📫 Connect with Me
+
+- [X (Twitter)](https://x.com/1minatoUzumaki1)
+
+---
+
+_Thanks for visiting! Feel free to check out my projects or connect with me for collaboration._
