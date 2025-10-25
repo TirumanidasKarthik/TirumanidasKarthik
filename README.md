@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tirumanidas Karthik
+# 👋 Hi, I'm Karthik  Tirumanidas
 
 **Software Engineer | Python Developer**
 
@@ -16,9 +16,7 @@ My daily motto: _Grow my knowledge everyday._
 ## 🛠️ Skills
 
 - Python
-- Java
 - Flask
-- JavaScript
 
 ## 🌱 About Me
 
